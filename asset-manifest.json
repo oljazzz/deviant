@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deviant/static/css/main.67e65520.css",
+    "main.js": "/deviant/static/js/main.f7e532b3.js",
+    "static/js/787.ba77fcf5.chunk.js": "/deviant/static/js/787.ba77fcf5.chunk.js",
+    "pdf.worker.js": "/deviant/0ba4fa0db9791617b1b0862fd683c635.js",
+    "index.html": "/deviant/index.html",
+    "main.67e65520.css.map": "/deviant/static/css/main.67e65520.css.map",
+    "main.f7e532b3.js.map": "/deviant/static/js/main.f7e532b3.js.map",
+    "787.ba77fcf5.chunk.js.map": "/deviant/static/js/787.ba77fcf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e65520.css",
+    "static/js/main.f7e532b3.js"
+  ]
+}
